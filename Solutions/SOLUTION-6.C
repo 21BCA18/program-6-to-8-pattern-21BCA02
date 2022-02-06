@@ -1,4 +1,4 @@
-/* Write a program and print following patten
+// /* Write a program and print following patten
 *
 * *
 * * *
